@@ -1,0 +1,17 @@
+{
+  "name": "diseasedb",
+  "description": "Disease Database Project",
+  "main": "app.js",
+  "authors": [
+    "赵明宇 <498973030@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/zhaomy6/DiseaseDB",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "diseasedb",
+  "version": "1.0.0",
+  "description": "Disease Database Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhaomy6/DiseaseDB.git"
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "element-ui": "^1.2.0",
+    "express": "^4.14.1",
+    "express-session": "^1.15.1",
+    "mysql": "^2.13.0",
+    "path": "^0.12.7",
+    "pug": "^0.1.0",
+    "restc": "0.0.4",
+    "vue": "^2.1.10"
+  }
+}
